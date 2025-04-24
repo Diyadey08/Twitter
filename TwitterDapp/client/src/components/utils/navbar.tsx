@@ -51,7 +51,7 @@ export function Navbar() {
             <Search className="h-4 w-4" />
             Explore
           </Link>
-          <Link
+          <Link 
             href="/notifications"
             className="flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-[#1d9bf0]"
           >
@@ -62,8 +62,8 @@ export function Navbar() {
             href="/TweetMint"
             className="flex items-center gap-1.5 text-sm font-medium transition-colors hover:text-[#1d9bf0]"
           >
-                            <BookMarked className="h-5 w-5" />
-                            Nft Mint
+           <BookMarked className="h-5 w-5" />
+            Nft Mint
             </Link>
         </nav>
 
