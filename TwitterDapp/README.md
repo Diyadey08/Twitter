@@ -34,9 +34,13 @@ bash
 Copy
 Edit
 git clone https://github.com/yourusername/Twitter.git
+
 cd TwitterDapp
+
 npm install
+
 npm run dev
+
 📄 Smart Contract Deployment
 Set up environment:
 
